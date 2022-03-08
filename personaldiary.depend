@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1623493111 source:c:\users\rutu\desktop\code blocks pro\lab 7\personaldiary\main.cpp
+	<iostream>
+	"record.h"
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1623483744 c:\users\rutu\desktop\code blocks pro\lab 7\personaldiary\include\record.h
+
+1623687786 source:c:\users\rutu\desktop\code blocks pro\lab 7\personaldiary\src\record_m.cpp
+	"record.h"
+	<string.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+
